@@ -14,7 +14,7 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
 ## 🎮 Features
 
 - **8 Languages**: English, French, German, Spanish, Italian, Korean, Chinese, Ukrainian
-- **Modern UI**: Cyberpunk-themed dark interface with neon accents
+- **Modern UI**: Dark interface with clean design
 - **Lightweight**: Built with Tauri (Rust + WebView) instead of Electron
 - **Smart Validation**: Disabled generation button until valid RTF file and image folder are selected
 - **3 Modes**: Generate, Preserve, Overwrite
