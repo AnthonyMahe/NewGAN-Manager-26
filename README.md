@@ -1,6 +1,7 @@
 # NewGAN Manager 26
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
@@ -31,6 +32,16 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
    ```
 4. Run NewGAN Manager 26
 
+### Linux
+1. Download the `.AppImage` or `.deb` from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+2. For AppImage: `chmod +x *.AppImage` then run it
+3. For .deb: `sudo dpkg -i *.deb`
+4. Move the `views/` and `filters/` folders to your Football Manager user folder:
+   ```
+   ~/.local/share/Sports Interactive/Football Manager 2026/
+   ```
+5. Run NewGAN Manager 26
+
 ---
 
 ## 🚀 Usage
@@ -51,27 +62,6 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
    - **Preserve**: Keep existing mappings, only assign to new players
    - **Overwrite**: Replace all existing face mappings
 8. Click **GENERATE FACES**
-
----
-
-## 🏗️ Development
-
-### Requirements
-- Node.js 18+
-- Rust (latest stable)
-- pnpm or npm
-
-### Setup
-```bash
-cd newgan-app
-npm install
-npm run tauri dev
-```
-
-### Build
-```bash
-npm run tauri build
-```
 
 ---
 
