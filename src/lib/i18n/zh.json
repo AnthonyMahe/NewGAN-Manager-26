@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "加载中...",
+        "footer": "分支自"
+    },
+    "ui": {
+        "select_rtf": "选择文件",
+        "select_img": "选择目录",
+        "select_file": "选择文件",
+        "select_folder": "选择文件夹",
+        "rtf_file": "RTF 文件",
+        "image_folder": "图片文件夹",
+        "mode": "模式",
+        "generate_btn": "生成面孔",
+        "processing": "处理中...",
+        "error_rtf": "请先选择一个RTF文件。",
+        "error_img": "请先选择一个图片目录。",
+        "error_both": "请选择RTF文件和图片目录。",
+        "error_not_rtf": "所选文件必须是RTF文件（.rtf扩展名）。",
+        "close": "关闭"
+    },
+    "help": {
+        "rtf_title": "RTF 文件",
+        "rtf_text": "这是从Football Manager导出的包含球员列表（新生代）的RTF文件。导出方法：在FM中，进入球员列表视图，选择所有球员，右键点击并选择'导出到网页'。",
+        "img_title": "图片目录",
+        "img_text": "这是包含按种族分类的面孔图片的文件夹。每个子文件夹应以种族命名（如：African, Asian, Caucasian）并包含PNG格式的面孔图片。"
+    },
+    "mode": {
+        "generate": "生成",
+        "preserve": "保留",
+        "overwrite": "覆盖",
+        "generate_desc": "为所有没有现有面孔的球员生成新的面孔映射。",
+        "preserve_desc": "保留现有映射，只为新球员分配面孔。",
+        "overwrite_desc": "用新映射替换所有现有的面孔映射。"
+    },
+    "logs": {
+        "ready": "系统就绪。等待输入...",
+        "mapped": "已映射"
+    }
+}

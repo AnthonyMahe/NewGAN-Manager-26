@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "Cargando...",
+        "footer": "Fork de"
+    },
+    "ui": {
+        "select_rtf": "SELECCIONAR ARCHIVO",
+        "select_img": "SELECCIONAR DIRECTORIO",
+        "select_file": "Elegir Archivo",
+        "select_folder": "Elegir Carpeta",
+        "rtf_file": "Archivo RTF",
+        "image_folder": "Carpeta de Imágenes",
+        "mode": "Modo",
+        "generate_btn": "GENERAR CARAS",
+        "processing": "PROCESANDO...",
+        "error_rtf": "Por favor, seleccione primero un archivo RTF.",
+        "error_img": "Por favor, seleccione primero un directorio de imágenes.",
+        "error_both": "Por favor, seleccione un archivo RTF y un directorio de imágenes.",
+        "error_not_rtf": "El archivo seleccionado debe ser un archivo RTF (extensión .rtf).",
+        "close": "Cerrar"
+    },
+    "help": {
+        "rtf_title": "Archivo RTF",
+        "rtf_text": "Este es el archivo RTF exportado desde Football Manager que contiene la lista de jugadores (newgens). Para exportarlo: En FM, ve a una vista de lista de jugadores, selecciona todos los jugadores, haz clic derecho y elige 'Exportar a Página Web'.",
+        "img_title": "Directorio de Imágenes",
+        "img_text": "Esta es la carpeta que contiene las imágenes de caras ordenadas por etnia. Cada subcarpeta debe llevar el nombre de una etnia (ej: African, Asian, Caucasian) y contener imágenes PNG de caras."
+    },
+    "mode": {
+        "generate": "GENERAR",
+        "preserve": "PRESERVAR",
+        "overwrite": "SOBRESCRIBIR",
+        "generate_desc": "Genera nuevos mapeos de caras para todos los jugadores sin caras existentes.",
+        "preserve_desc": "Mantiene los mapeos existentes y solo asigna caras a nuevos jugadores.",
+        "overwrite_desc": "Reemplaza TODOS los mapeos de caras existentes con nuevos."
+    },
+    "logs": {
+        "ready": "Sistema listo. Esperando entrada...",
+        "mapped": "Mapeados"
+    }
+}

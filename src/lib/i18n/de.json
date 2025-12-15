@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "Wird geladen...",
+        "footer": "Fork von"
+    },
+    "ui": {
+        "select_rtf": "DATEI AUSWÄHLEN",
+        "select_img": "VERZEICHNIS AUSWÄHLEN",
+        "select_file": "Datei wählen",
+        "select_folder": "Ordner wählen",
+        "rtf_file": "RTF Datei",
+        "image_folder": "Bilderordner",
+        "mode": "Modus",
+        "generate_btn": "GESICHTER GENERIEREN",
+        "processing": "VERARBEITUNG...",
+        "error_rtf": "Bitte wählen Sie zuerst eine RTF-Datei.",
+        "error_img": "Bitte wählen Sie zuerst ein Bildverzeichnis.",
+        "error_both": "Bitte wählen Sie sowohl eine RTF-Datei als auch ein Bildverzeichnis.",
+        "error_not_rtf": "Die ausgewählte Datei muss eine RTF-Datei sein (.rtf Erweiterung).",
+        "close": "Schließen"
+    },
+    "help": {
+        "rtf_title": "RTF-Datei",
+        "rtf_text": "Dies ist die aus Football Manager exportierte RTF-Datei mit der Spielerliste (Newgens). Zum Exportieren: Gehen Sie in FM zu einer Spielerlistenansicht, wählen Sie alle Spieler aus, rechtsklicken Sie und wählen Sie 'Als Webseite exportieren'.",
+        "img_title": "Bildverzeichnis",
+        "img_text": "Dies ist der Ordner mit den nach Ethnizität sortierten Gesichtsbildern. Jeder Unterordner sollte nach einer Ethnizität benannt sein (z.B. African, Asian, Caucasian) und PNG-Gesichtsbilder enthalten."
+    },
+    "mode": {
+        "generate": "GENERIEREN",
+        "preserve": "ERHALTEN",
+        "overwrite": "ÜBERSCHREIBEN",
+        "generate_desc": "Neue Gesichtszuordnungen für alle Spieler ohne vorhandene Gesichter generieren.",
+        "preserve_desc": "Bestehende Zuordnungen behalten und nur neuen Spielern Gesichter zuweisen.",
+        "overwrite_desc": "ALLE bestehenden Gesichtszuordnungen durch neue ersetzen."
+    },
+    "logs": {
+        "ready": "System bereit. Warte auf Eingabe...",
+        "mapped": "Zugeordnet"
+    }
+}

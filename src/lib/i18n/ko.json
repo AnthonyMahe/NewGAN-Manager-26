@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "로딩 중...",
+        "footer": "포크:"
+    },
+    "ui": {
+        "select_rtf": "파일 선택",
+        "select_img": "디렉토리 선택",
+        "select_file": "파일 선택",
+        "select_folder": "폴더 선택",
+        "rtf_file": "RTF 파일",
+        "image_folder": "이미지 폴더",
+        "mode": "모드",
+        "generate_btn": "얼굴 생성",
+        "processing": "처리 중...",
+        "error_rtf": "먼저 RTF 파일을 선택하세요.",
+        "error_img": "먼저 이미지 디렉토리를 선택하세요.",
+        "error_both": "RTF 파일과 이미지 디렉토리를 모두 선택하세요.",
+        "error_not_rtf": "선택한 파일은 RTF 파일이어야 합니다 (.rtf 확장자).",
+        "close": "닫기"
+    },
+    "help": {
+        "rtf_title": "RTF 파일",
+        "rtf_text": "이것은 Football Manager에서 내보낸 선수 목록(뉴젠)이 포함된 RTF 파일입니다. 내보내기 방법: FM에서 선수 목록 보기로 이동, 모든 선수 선택, 마우스 오른쪽 클릭 후 '웹 페이지로 내보내기' 선택.",
+        "img_title": "이미지 디렉토리",
+        "img_text": "이것은 민족별로 정렬된 얼굴 이미지가 포함된 폴더입니다. 각 하위 폴더는 민족 이름(예: African, Asian, Caucasian)으로 명명되어야 하며 PNG 얼굴 이미지를 포함해야 합니다."
+    },
+    "mode": {
+        "generate": "생성",
+        "preserve": "보존",
+        "overwrite": "덮어쓰기",
+        "generate_desc": "기존 얼굴이 없는 모든 선수에 대해 새 얼굴 매핑을 생성합니다.",
+        "preserve_desc": "기존 매핑을 유지하고 새 선수에게만 얼굴을 할당합니다.",
+        "overwrite_desc": "기존의 모든 얼굴 매핑을 새 것으로 교체합니다."
+    },
+    "logs": {
+        "ready": "시스템 준비. 입력 대기 중...",
+        "mapped": "매핑됨"
+    }
+}

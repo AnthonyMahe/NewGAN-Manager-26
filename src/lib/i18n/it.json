@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "Caricamento...",
+        "footer": "Fork di"
+    },
+    "ui": {
+        "select_rtf": "SELEZIONA FILE",
+        "select_img": "SELEZIONA DIRECTORY",
+        "select_file": "Scegli File",
+        "select_folder": "Scegli Cartella",
+        "rtf_file": "File RTF",
+        "image_folder": "Cartella Immagini",
+        "mode": "Modalità",
+        "generate_btn": "GENERA VOLTI",
+        "processing": "ELABORAZIONE...",
+        "error_rtf": "Seleziona prima un file RTF.",
+        "error_img": "Seleziona prima una directory di immagini.",
+        "error_both": "Seleziona sia un file RTF che una directory di immagini.",
+        "error_not_rtf": "Il file selezionato deve essere un file RTF (estensione .rtf).",
+        "close": "Chiudi"
+    },
+    "help": {
+        "rtf_title": "File RTF",
+        "rtf_text": "Questo è il file RTF esportato da Football Manager contenente l'elenco dei giocatori (newgens). Per esportarlo: In FM, vai a una vista elenco giocatori, seleziona tutti i giocatori, fai clic destro e scegli 'Esporta in Pagina Web'.",
+        "img_title": "Directory Immagini",
+        "img_text": "Questa è la cartella contenente le immagini dei volti ordinate per etnia. Ogni sottocartella dovrebbe essere denominata con un'etnia (es: African, Asian, Caucasian) e contenere immagini PNG di volti."
+    },
+    "mode": {
+        "generate": "GENERA",
+        "preserve": "PRESERVA",
+        "overwrite": "SOVRASCRIVI",
+        "generate_desc": "Genera nuove mappature di volti per tutti i giocatori senza volti esistenti.",
+        "preserve_desc": "Mantiene le mappature esistenti e assegna volti solo ai nuovi giocatori.",
+        "overwrite_desc": "Sostituisce TUTTE le mappature di volti esistenti con nuove."
+    },
+    "logs": {
+        "ready": "Sistema pronto. In attesa di input...",
+        "mapped": "Mappati"
+    }
+}
