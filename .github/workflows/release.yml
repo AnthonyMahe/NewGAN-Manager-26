@@ -54,8 +54,20 @@ jobs:
             ### Downloads
             - **Windows**: NewGAN-Manager-Portable.exe (no installation required)
             - **Linux**: AppImage
+            - **Required**: views-filters.zip (extract to your FM user folder)
           releaseDraft: false
           prerelease: false
+
+      - name: Create views-filters.zip (Windows)
+        if: matrix.platform == 'windows-latest'
+        run: |
+          Compress-Archive -Path views, filters -DestinationPath views-filters.zip
+
+      - name: Upload views-filters.zip (Windows)
+        if: matrix.platform == 'windows-latest'
+        uses: softprops/action-gh-release@v1
+        with:
+          files: views-filters.zip
 
       - name: Rename Portable Executable
         if: matrix.platform == 'windows-latest'
