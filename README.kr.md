@@ -1,21 +1,15 @@
+<h3 align="center">📖 원하는 언어로 읽기</h3>
+
 <p align="center">
-  <a href="README.md"><img src="https://flagcdn.com/48x36/gb.png" alt="English" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.fr.md"><img src="https://flagcdn.com/48x36/fr.png" alt="Français" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.es.md"><img src="https://flagcdn.com/48x36/es.png" alt="Español" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.de.md"><img src="https://flagcdn.com/48x36/de.png" alt="Deutsch" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.it.md"><img src="https://flagcdn.com/48x36/it.png" alt="Italiano" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.pt.md"><img src="https://flagcdn.com/48x36/pt.png" alt="Português" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.ua.md"><img src="https://flagcdn.com/48x36/ua.png" alt="Українська" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.kr.md"><img src="https://flagcdn.com/48x36/kr.png" alt="한국어" width="40"></a>
-  &nbsp;&nbsp;
-  <a href="README.cn.md"><img src="https://flagcdn.com/48x36/cn.png" alt="中文" width="40"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-English-2ea44f?style=for-the-badge" alt="English"></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/🇫🇷-Français-2ea44f?style=for-the-badge" alt="Français"></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/🇪🇸-Español-2ea44f?style=for-the-badge" alt="Español"></a>
+  <a href="README.de.md"><img src="https://img.shields.io/badge/🇩🇪-Deutsch-2ea44f?style=for-the-badge" alt="Deutsch"></a>
+  <a href="README.it.md"><img src="https://img.shields.io/badge/🇮🇹-Italiano-2ea44f?style=for-the-badge" alt="Italiano"></a>
+  <a href="README.pt.md"><img src="https://img.shields.io/badge/🇵🇹-Português-2ea44f?style=for-the-badge" alt="Português"></a>
+  <a href="README.ua.md"><img src="https://img.shields.io/badge/🇺🇦-Українська-2ea44f?style=for-the-badge" alt="Українська"></a>
+  <a href="README.kr.md"><img src="https://img.shields.io/badge/🇰🇷-한국어-2ea44f?style=for-the-badge" alt="한국어"></a>
+  <a href="README.cn.md"><img src="https://img.shields.io/badge/🇨🇳-中文-2ea44f?style=for-the-badge" alt="中文"></a>
 </p>
 
 ---
