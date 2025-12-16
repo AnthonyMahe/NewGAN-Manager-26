@@ -38,6 +38,7 @@ jobs:
         run: npm install
 
       - name: Build and Create Release
+        id: tauri
         uses: tauri-apps/tauri-action@v0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -47,3 +48,14 @@ jobs:
           releaseBody: 'See the assets to download this version and install.'
           releaseDraft: true
           prerelease: false
+
+      - name: Upload Portable Executable
+        if: matrix.platform == 'windows-latest'
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.tauri.outputs.releaseUploadUrl }}
+          asset_path: src-tauri/target/release/newgan-app.exe
+          asset_name: NewGAN-Manager-Portable.exe
+          asset_content_type: application/vnd.microsoft.portable-executable
