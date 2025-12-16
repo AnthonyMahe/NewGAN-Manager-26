@@ -20,8 +20,6 @@
 
 ---
 
-#
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
@@ -30,6 +28,10 @@
 **Сучасний генератор облич для ньюгенів Football Manager 26.**
 
 Це повний перепис оригінального [NewGAN-Manager](https://github.com/Maradonna90/NewGAN-Manager) від Maradonna90, перебудований з нуля з використанням **Tauri + Svelte 5** для покращеної продуктивності та сучасного інтерфейсу.
+
+<p align="center">
+  <img src="assets/screenshot-ua.png" alt="NewGAN Manager 26 Screenshot" width="600">
+</p>
 
 ---
 

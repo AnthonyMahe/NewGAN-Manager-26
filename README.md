@@ -29,6 +29,10 @@
 
 This is a complete rewrite of the original [NewGAN-Manager](https://github.com/Maradonna90/NewGAN-Manager) by Maradonna90, rebuilt from scratch using **Tauri + Svelte 5** for improved performance and a modern UI.
 
+<p align="center">
+  <img src="assets/screenshot-en.png" alt="NewGAN Manager 26 Screenshot" width="600">
+</p>
+
 ---
 
 ## 🎮 Features

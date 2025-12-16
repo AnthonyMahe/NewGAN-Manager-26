@@ -20,8 +20,6 @@
 
 ---
 
-#
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
@@ -30,6 +28,10 @@
 **Football Manager 26 뉴젠을 위한 현대적인 얼굴 생성기.**
 
 이것은 Maradonna90의 원본 [NewGAN-Manager](https://github.com/Maradonna90/NewGAN-Manager)를 완전히 다시 작성한 것으로, 향상된 성능과 현대적인 UI를 위해 **Tauri + Svelte 5**를 사용하여 처음부터 재구축했습니다.
+
+<p align="center">
+  <img src="assets/screenshot-kr.png" alt="NewGAN Manager 26 Screenshot" width="600">
+</p>
 
 ---
 

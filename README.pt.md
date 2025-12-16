@@ -20,8 +20,6 @@
 
 ---
 
-#
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
@@ -30,6 +28,10 @@
 **Um gerador de faces moderno para newgens do Football Manager 26.**
 
 Esta é uma reescrita completa do [NewGAN-Manager](https://github.com/Maradonna90/NewGAN-Manager) original de Maradonna90, reconstruído do zero usando **Tauri + Svelte 5** para melhor desempenho e uma interface moderna.
+
+<p align="center">
+  <img src="assets/screenshot-pt.png" alt="NewGAN Manager 26 Screenshot" width="600">
+</p>
 
 ---
 

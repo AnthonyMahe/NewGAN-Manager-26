@@ -31,6 +31,10 @@
 
 Esta es una reescritura completa del [NewGAN-Manager](https://github.com/Maradonna90/NewGAN-Manager) original de Maradonna90, reconstruido desde cero usando **Tauri + Svelte 5** para un mejor rendimiento y una interfaz moderna.
 
+<p align="center">
+  <img src="assets/screenshot-es.png" alt="NewGAN Manager 26 Screenshot" width="600">
+</p>
+
 ---
 
 ## 🎮 Características
