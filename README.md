@@ -7,15 +7,15 @@
 <h4 align="center">📖 Read in your language</h4>
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/EN-English-2ea44f?style=flat-square&labelColor=012169" alt="English"></a>
-  <a href="README.fr.md"><img src="https://img.shields.io/badge/FR-Français-2ea44f?style=flat-square&labelColor=0055A4" alt="Français"></a>
-  <a href="README.es.md"><img src="https://img.shields.io/badge/ES-Español-2ea44f?style=flat-square&labelColor=C60B1E" alt="Español"></a>
-  <a href="README.de.md"><img src="https://img.shields.io/badge/DE-Deutsch-2ea44f?style=flat-square&labelColor=000000" alt="Deutsch"></a>
-  <a href="README.it.md"><img src="https://img.shields.io/badge/IT-Italiano-2ea44f?style=flat-square&labelColor=009246" alt="Italiano"></a>
-  <a href="README.pt.md"><img src="https://img.shields.io/badge/PT-Português-2ea44f?style=flat-square&labelColor=006600" alt="Português"></a>
-  <a href="README.ua.md"><img src="https://img.shields.io/badge/UA-Українська-2ea44f?style=flat-square&labelColor=005BBB" alt="Українська"></a>
-  <a href="README.kr.md"><img src="https://img.shields.io/badge/KR-한국어-2ea44f?style=flat-square&labelColor=003478" alt="한국어"></a>
-  <a href="README.cn.md"><img src="https://img.shields.io/badge/CN-中文-2ea44f?style=flat-square&labelColor=DE2910" alt="中文"></a>
+  <a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="32" alt="English"></a>&nbsp;
+  <a href="README.fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="32" alt="Français"></a>&nbsp;
+  <a href="README.es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32" alt="Español"></a>&nbsp;
+  <a href="README.de.md"><img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="32" alt="Deutsch"></a>&nbsp;
+  <a href="README.it.md"><img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="32" alt="Italiano"></a>&nbsp;
+  <a href="README.pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="32" alt="Português"></a>&nbsp;
+  <a href="README.ua.md"><img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="32" alt="Українська"></a>&nbsp;
+  <a href="README.kr.md"><img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="32" alt="한국어"></a>&nbsp;
+  <a href="README.cn.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="32" alt="中文"></a>
 </p>
 
 ---
