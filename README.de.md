@@ -1,13 +1,6 @@
 <div align="center">
 
-[![English](https://img.shields.io/badge/English-d9d9d9?style=flat-square&logo=github&logoColor=black)](README.md)
-[![Français](https://img.shields.io/badge/Français-005BBB?style=flat-square&logo=github&logoColor=white)](README.fr.md)
-[![Español](https://img.shields.io/badge/Español-F1BF00?style=flat-square&logo=github&logoColor=white)](README.es.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-DD0000?style=flat-square&logo=github&logoColor=white)](README.de.md)
-[![Italiano](https://img.shields.io/badge/Italiano-008C45?style=flat-square&logo=github&logoColor=white)](README.it.md)
-[![Українська](https://img.shields.io/badge/Українська-0057B8?style=flat-square&logo=github&logoColor=white)](README.ua.md)
-[![한국어](https://img.shields.io/badge/한국어-000000?style=flat-square&logo=github&logoColor=white)](README.kr.md)
-[![中文](https://img.shields.io/badge/中文-DE2910?style=flat-square&logo=github&logoColor=white)](README.cn.md)
+[🇬🇧 English](README.md) • [🇫🇷 Français](README.fr.md) • [🇪🇸 Español](README.es.md) • [🇩🇪 Deutsch](README.de.md) • [🇮🇹 Italiano](README.it.md) • [🇺🇦 Українська](README.ua.md) • [🇰🇷 한국어](README.kr.md) • [🇨🇳 中文](README.cn.md)
 
 </div>
 
