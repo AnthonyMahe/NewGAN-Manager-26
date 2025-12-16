@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇬🇧 English](README.md) • [🇫🇷 Français](README.fr.md) • [🇪🇸 Español](README.es.md) • [🇩🇪 Deutsch](README.de.md) • [🇮🇹 Italiano](README.it.md) • [🇵🇹 Português](README.pt.md) • [🇺🇦 Українська](README.ua.md) • [🇰🇷 한국어](README.kr.md) • [🇨🇳 中文](README.cn.md)
+[![EN](https://img.shields.io/badge/🇬🇧_English-blue?style=flat-square)](README.md) [![FR](https://img.shields.io/badge/🇫🇷_Français-blue?style=flat-square)](README.fr.md) [![ES](https://img.shields.io/badge/🇪🇸_Español-blue?style=flat-square)](README.es.md) [![DE](https://img.shields.io/badge/🇩🇪_Deutsch-blue?style=flat-square)](README.de.md) [![IT](https://img.shields.io/badge/🇮🇹_Italiano-blue?style=flat-square)](README.it.md) [![PT](https://img.shields.io/badge/🇵🇹_Português-blue?style=flat-square)](README.pt.md) [![UA](https://img.shields.io/badge/🇺🇦_Українська-blue?style=flat-square)](README.ua.md) [![KR](https://img.shields.io/badge/🇰🇷_한국어-blue?style=flat-square)](README.kr.md) [![CN](https://img.shields.io/badge/🇨🇳_中文-blue?style=flat-square)](README.cn.md)
 
 </div>
 
