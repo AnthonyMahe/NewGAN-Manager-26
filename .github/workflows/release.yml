@@ -22,7 +22,8 @@ jobs:
         if: matrix.platform == 'ubuntu-22.04'
         run: |
           sudo apt-get update
-          sudo apt-get install -y libwebkit2gtk-4.0-dev build-essential curl wget file libssl-dev libgtk-3-dev libayatana-appindicator3-dev librsvg2-dev
+          sudo apt-get install -y libwebkit2gtk-4.1-dev build-essential curl wget file libssl-dev libgtk-3-dev libayatana-appindicator3-dev librsvg2-dev libsoup-3.0-dev libjavascriptcoregtk-4.1-dev
+
 
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
@@ -49,13 +50,14 @@ jobs:
           releaseDraft: true
           prerelease: false
 
+      - name: Rename Portable Executable
+        if: matrix.platform == 'windows-latest'
+        run: |
+          copy src-tauri\target\release\newgan-app.exe NewGAN-Manager-Portable.exe
+
       - name: Upload Portable Executable
         if: matrix.platform == 'windows-latest'
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: softprops/action-gh-release@v1
         with:
-          upload_url: ${{ steps.tauri.outputs.releaseUploadUrl }}
-          asset_path: src-tauri/target/release/newgan-app.exe
-          asset_name: NewGAN-Manager-Portable.exe
-          asset_content_type: application/vnd.microsoft.portable-executable
+          files: NewGAN-Manager-Portable.exe
+
