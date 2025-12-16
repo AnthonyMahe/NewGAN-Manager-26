@@ -1,0 +1,108 @@
+<div align="center">
+
+[![English](https://img.shields.io/badge/English-d9d9d9?style=flat-square&logo=github&logoColor=black)](README.md)
+[![Français](https://img.shields.io/badge/Français-005BBB?style=flat-square&logo=github&logoColor=white)](README.fr.md)
+[![Español](https://img.shields.io/badge/Español-F1BF00?style=flat-square&logo=github&logoColor=white)](README.es.md)
+[![Deutsch](https://img.shields.io/badge/Deutsch-DD0000?style=flat-square&logo=github&logoColor=white)](README.de.md)
+[![Italiano](https://img.shields.io/badge/Italiano-008C45?style=flat-square&logo=github&logoColor=white)](README.it.md)
+[![Українська](https://img.shields.io/badge/Українська-0057B8?style=flat-square&logo=github&logoColor=white)](README.ua.md)
+[![한국어](https://img.shields.io/badge/한국어-000000?style=flat-square&logo=github&logoColor=white)](README.kr.md)
+[![中文](https://img.shields.io/badge/中文-DE2910?style=flat-square&logo=github&logoColor=white)](README.cn.md)
+
+</div>
+
+---
+
+# NewGAN Manager 26
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
+**Сучасний генератор облич для ньюгенів Football Manager 26.**
+
+Це повний перепис оригінального [NewGAN-Manager](https://github.com/Maradonna90/NewGAN-Manager) від Maradonna90, перебудований з нуля з використанням **Tauri + Svelte 5** для покращеної продуктивності та сучасного інтерфейсу.
+
+---
+
+## 🎮 Можливості
+
+- **8 Мов**: Англійська, Французька, Німецька, Іспанська, Італійська, Корейська, Китайська, Українська
+- **Сучасний Інтерфейс**: Темний інтерфейс з чистим дизайном
+- **Легкий**: Побудований на Tauri (Rust + WebView) замість Electron
+- **Розумна Валідація**: Кнопка генерації залишається неактивною, поки не буде вибрано дійсний RTF файл та папку зображень
+- **3 Режими**: Генерувати (Generate), Зберегти (Preserve), Перезаписати (Overwrite)
+
+---
+
+## 📥 Встановлення
+
+### Windows
+1. Завантажте останній `.exe` (портативний) або інсталятор `.msi` з [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+2. Запустіть програму
+3. Перемістіть папки `views/` та `filters/` до вашої папки користувача Football Manager:
+   ```
+   Documents\Sports Interactive\Football Manager 2026\
+   ```
+4. Запустіть NewGAN Manager 26
+
+### Linux
+1. Завантажте `.AppImage` або `.deb` з [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+2. Для AppImage: `chmod +x *.AppImage` потім запустіть
+3. Для .deb: `sudo dpkg -i *.deb`
+4. Перемістіть папки `views/` та `filters/` до вашої папки користувача Football Manager:
+   ```
+   ~/.local/share/Sports Interactive/Football Manager 2026/
+   ```
+5. Запустіть NewGAN Manager 26
+
+---
+
+## 🚀 Використання
+
+### Передумови
+- Використовуйте **English (UK)** як мову FM (інші мови можуть мати інші коди країн)
+- Використовуйте **стандартний скін FM** (власні скіни можуть використовувати прапори замість кодів країн)
+
+### Кроки
+1. У Football Manager перейдіть до пошуку гравців/перегляду складу
+2. Виберіть усіх гравців (Ctrl+A)
+3. Клацніть правою кнопкою → **Експортувати як веб-сторінку** → Зберегти як `.rtf`
+4. Відкрийте NewGAN Manager 26
+5. Виберіть експортований файл `.rtf`
+6. Виберіть вашу папку з обличчями (організовану за папками етнічності)
+7. Виберіть режим:
+   - **Generate**: Призначає обличчя гравцям без існуючих облич
+   - **Preserve**: Зберігає існуючі призначення, призначає тільки новим гравцям
+   - **Overwrite**: Замінює всі існуючі призначення облич
+8. Натисніть **GENERATE FACES**
+
+---
+
+## 👥 Подяки
+
+### Оригінальний NewGAN-Manager
+- **[Maradonna](https://github.com/Maradonna90)**: Творець та Головний Розробник
+- **Samaroy**: Координація, Генерація зображень
+- **[HRiddick](https://sortitoutsi.net/user/profile/137954)**: Очищення зображень
+- **[Krysler76](https://community.sigames.com/profile/157461-krysler76/)**: Хакінг переглядів FM
+- **Ayal, Zealand, ZeBurgs**: Генерація зображень
+
+### NewGAN Manager 26
+- **[AnthonyMahe](https://github.com/AnthonyMahe)**: Перепис з використанням Tauri + Svelte 5
+
+---
+
+## 📄 Ліцензія
+
+Цей проект є форком оригінального NewGAN-Manager. Дивіться оригінальний репозиторій для інформації про ліцензію.
+
+---
+
+## 🐛 Вирішення проблем
+
+Якщо ви зіткнулися з проблемами, будь ласка, [відкрийте issue](https://github.com/AnthonyMahe/NewGAN-Manager-26/issues) з:
+- Вашою операційною системою
+- Кроками для відтворення
+- Будь-якими повідомленнями про помилки або скріншотами

@@ -1,3 +1,18 @@
+<div align="center">
+
+[![English](https://img.shields.io/badge/English-d9d9d9?style=flat-square&logo=github&logoColor=black)](README.md)
+[![Français](https://img.shields.io/badge/Français-005BBB?style=flat-square&logo=github&logoColor=white)](README.fr.md)
+[![Español](https://img.shields.io/badge/Español-F1BF00?style=flat-square&logo=github&logoColor=white)](README.es.md)
+[![Deutsch](https://img.shields.io/badge/Deutsch-DD0000?style=flat-square&logo=github&logoColor=white)](README.de.md)
+[![Italiano](https://img.shields.io/badge/Italiano-008C45?style=flat-square&logo=github&logoColor=white)](README.it.md)
+[![Українська](https://img.shields.io/badge/Українська-0057B8?style=flat-square&logo=github&logoColor=white)](README.ua.md)
+[![한국어](https://img.shields.io/badge/한국어-000000?style=flat-square&logo=github&logoColor=white)](README.kr.md)
+[![中文](https://img.shields.io/badge/中文-DE2910?style=flat-square&logo=github&logoColor=white)](README.cn.md)
+
+</div>
+
+---
+
 # NewGAN Manager 26
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -24,8 +39,8 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
 ## 📥 Installation
 
 ### Windows
-1. Download the latest `.msi` installer from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
-2. Run the installer
+1. Download the latest `.exe` (portable) or `.msi` installer from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+2. Run the application
 3. Move the `views/` and `filters/` folders to your Football Manager user folder:
    ```
    Documents\Sports Interactive\Football Manager 2026\
