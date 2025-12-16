@@ -107,7 +107,7 @@ Dies ist eine komplette Neuentwicklung des ursprünglichen [NewGAN-Manager](http
 
 ## 📄 Lizenz
 
-Dieses Projekt ist ein Fork des ursprünglichen NewGAN-Manager. Siehe das ursprüngliche Repository für Lizenzinformationen.
+Verteilt unter der GNU General Public License v3.0. Siehe `LICENSE` für weitere Informationen.
 
 ---
 

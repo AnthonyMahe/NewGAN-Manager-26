@@ -105,7 +105,7 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
 
 ## 📄 License
 
-This project is a fork of the original NewGAN-Manager. See the original repository for license information.
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
 ---
 

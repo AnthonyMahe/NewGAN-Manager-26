@@ -105,7 +105,7 @@ Esta é uma reescrita completa do [NewGAN-Manager](https://github.com/Maradonna9
 
 ## 📄 Licença
 
-Este projeto é um fork do NewGAN-Manager original. Veja o repositório original para informações de licença.
+Distribuído sob a GNU General Public License v3.0. Veja `LICENSE` para mais informações.
 
 ---
 

@@ -105,7 +105,7 @@ Questa è una riscrittura completa del [NewGAN-Manager](https://github.com/Marad
 
 ## 📄 Licenza
 
-Questo progetto è un fork del NewGAN-Manager originale. Vedi il repository originale per informazioni sulla licenza.
+Distribuito sotto la GNU General Public License v3.0. Vedere `LICENSE` per maggiori informazioni.
 
 ---
 
