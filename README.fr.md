@@ -1,6 +1,6 @@
 <div align="center">
 
-[![EN](https://img.shields.io/badge/🇬🇧_English-blue?style=flat-square)](README.md) [![FR](https://img.shields.io/badge/🇫🇷_Français-blue?style=flat-square)](README.fr.md) [![ES](https://img.shields.io/badge/🇪🇸_Español-blue?style=flat-square)](README.es.md) [![DE](https://img.shields.io/badge/🇩🇪_Deutsch-blue?style=flat-square)](README.de.md) [![IT](https://img.shields.io/badge/🇮🇹_Italiano-blue?style=flat-square)](README.it.md) [![PT](https://img.shields.io/badge/🇵🇹_Português-blue?style=flat-square)](README.pt.md) [![UA](https://img.shields.io/badge/🇺🇦_Українська-blue?style=flat-square)](README.ua.md) [![KR](https://img.shields.io/badge/🇰🇷_한국어-blue?style=flat-square)](README.kr.md) [![CN](https://img.shields.io/badge/🇨🇳_中文-blue?style=flat-square)](README.cn.md)
+[![English](https://flagcdn.com/24x18/gb.png)](README.md) [![Français](https://flagcdn.com/24x18/fr.png)](README.fr.md) [![Español](https://flagcdn.com/24x18/es.png)](README.es.md) [![Deutsch](https://flagcdn.com/24x18/de.png)](README.de.md) [![Italiano](https://flagcdn.com/24x18/it.png)](README.it.md) [![Português](https://flagcdn.com/24x18/pt.png)](README.pt.md) [![Українська](https://flagcdn.com/24x18/ua.png)](README.ua.md) [![한국어](https://flagcdn.com/24x18/kr.png)](README.kr.md) [![中文](https://flagcdn.com/24x18/cn.png)](README.cn.md)
 
 </div>
 
