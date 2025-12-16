@@ -1,8 +1,22 @@
-<div align="center">
-
-[![English](https://flagcdn.com/24x18/gb.png)](README.md) [![Français](https://flagcdn.com/24x18/fr.png)](README.fr.md) [![Español](https://flagcdn.com/24x18/es.png)](README.es.md) [![Deutsch](https://flagcdn.com/24x18/de.png)](README.de.md) [![Italiano](https://flagcdn.com/24x18/it.png)](README.it.md) [![Português](https://flagcdn.com/24x18/pt.png)](README.pt.md) [![Українська](https://flagcdn.com/24x18/ua.png)](README.ua.md) [![한국어](https://flagcdn.com/24x18/kr.png)](README.kr.md) [![中文](https://flagcdn.com/24x18/cn.png)](README.cn.md)
-
-</div>
+<p align="center">
+  <a href="README.md"><img src="https://flagcdn.com/48x36/gb.png" alt="English" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.fr.md"><img src="https://flagcdn.com/48x36/fr.png" alt="Français" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.es.md"><img src="https://flagcdn.com/48x36/es.png" alt="Español" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.de.md"><img src="https://flagcdn.com/48x36/de.png" alt="Deutsch" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.it.md"><img src="https://flagcdn.com/48x36/it.png" alt="Italiano" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.pt.md"><img src="https://flagcdn.com/48x36/pt.png" alt="Português" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.ua.md"><img src="https://flagcdn.com/48x36/ua.png" alt="Українська" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.kr.md"><img src="https://flagcdn.com/48x36/kr.png" alt="한국어" width="40"></a>
+  &nbsp;&nbsp;
+  <a href="README.cn.md"><img src="https://flagcdn.com/48x36/cn.png" alt="中文" width="40"></a>
+</p>
 
 ---
 
