@@ -1,6 +1,6 @@
 <div align="center">
 
-[🇬🇧 English](README.md) • [🇫🇷 Français](README.fr.md) • [🇪🇸 Español](README.es.md) • [🇩🇪 Deutsch](README.de.md) • [🇮🇹 Italiano](README.it.md) • [🇺🇦 Українська](README.ua.md) • [🇰🇷 한국어](README.kr.md) • [🇨🇳 中文](README.cn.md)
+[🇬🇧 English](README.md) • [🇫🇷 Français](README.fr.md) • [🇪🇸 Español](README.es.md) • [🇩🇪 Deutsch](README.de.md) • [🇮🇹 Italiano](README.it.md) • [🇵🇹 Português](README.pt.md) • [🇺🇦 Українська](README.ua.md) • [🇰🇷 한국어](README.kr.md) • [🇨🇳 中文](README.cn.md)
 
 </div>
 

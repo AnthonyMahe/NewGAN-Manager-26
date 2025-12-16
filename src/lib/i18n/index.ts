@@ -7,9 +7,10 @@ import it from './it.json';
 import ko from './ko.json';
 import zh from './zh.json';
 import uk from './uk.json';
+import pt from './pt.json';
 
 const translations: Record<string, Record<string, any>> = {
-    en, fr, de, es, it, ko, zh, uk
+    en, fr, de, es, it, ko, zh, uk, pt
 };
 
 function getBrowserLocale(): string {

@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "Carregando...",
+        "footer": "Fork de"
+    },
+    "ui": {
+        "select_rtf": "SELECIONAR ARQUIVO",
+        "select_img": "SELECIONAR DIRETÓRIO",
+        "select_file": "Selecionar Arquivo",
+        "select_folder": "Selecionar Pasta",
+        "rtf_file": "Arquivo RTF",
+        "image_folder": "Pasta de Imagens",
+        "mode": "Modo",
+        "generate_btn": "GERAR FACES",
+        "processing": "PROCESSANDO...",
+        "error_rtf": "Por favor, selecione um arquivo RTF primeiro.",
+        "error_img": "Por favor, selecione um diretório de imagens primeiro.",
+        "error_both": "Por favor, selecione um arquivo RTF e um diretório de imagens.",
+        "error_not_rtf": "O arquivo selecionado deve ser um arquivo RTF (extensão .rtf).",
+        "close": "Fechar"
+    },
+    "help": {
+        "rtf_title": "Arquivo RTF",
+        "rtf_text": "Este é o arquivo RTF exportado do Football Manager contendo a lista de jogadores (newgens). Para exportar: No FM, vá para uma visualização de lista de jogadores, selecione todos os jogadores, clique com o botão direito e escolha 'Exportar para Página Web'.",
+        "img_title": "Diretório de Imagens",
+        "img_text": "Esta é pasta contendo as imagens de rosto ordenadas por etnia. Cada subpasta deve ser nomeada com uma etnia (ex: Africano, Asiático, Caucasiano) e conter imagens PNG de rostos."
+    },
+    "mode": {
+        "generate": "GERAR",
+        "preserve": "PRESERVAR",
+        "overwrite": "SOBRESCREVER",
+        "generate_desc": "Gerar novos mapeamentos de rosto para todos os jogadores sem faces existentes.",
+        "preserve_desc": "Manter mapeamentos de rosto existentes e apenas atribuir faces a novos jogadores.",
+        "overwrite_desc": "Substituir TODOS os mapeamentos de rosto existentes por novos."
+    },
+    "logs": {
+        "ready": "Sistema pronto. Aguardando entrada...",
+        "mapped": "Mapeado"
+    }
+}

@@ -9,6 +9,7 @@
         { code: 'de', flag: 'https://flagcdn.com/24x18/de.png', label: 'DE' },
         { code: 'es', flag: 'https://flagcdn.com/24x18/es.png', label: 'ES' },
         { code: 'it', flag: 'https://flagcdn.com/24x18/it.png', label: 'IT' },
+        { code: 'pt', flag: 'https://flagcdn.com/24x18/pt.png', label: 'PT' },
         { code: 'ko', flag: 'https://flagcdn.com/24x18/kr.png', label: 'KO' },
         { code: 'zh', flag: 'https://flagcdn.com/24x18/cn.png', label: 'ZH' },
         { code: 'uk', flag: 'https://flagcdn.com/24x18/ua.png', label: 'UA' }
