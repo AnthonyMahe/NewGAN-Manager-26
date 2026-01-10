@@ -9,6 +9,8 @@ jobs:
   release:
     permissions:
       contents: write
+      id-token: write
+      attestations: write
     strategy:
       fail-fast: false
       matrix:
@@ -58,6 +60,12 @@ jobs:
           releaseDraft: false
           prerelease: false
 
+      - name: Attest Build Provenance (Linux)
+        uses: actions/attest-build-provenance@v1
+        if: matrix.platform == 'ubuntu-22.04'
+        with:
+          subject-path: src-tauri/target/release/bundle/appimage/*.AppImage
+
       - name: Create views-filters.zip (Windows)
         if: matrix.platform == 'windows-latest'
         run: |
@@ -79,6 +87,12 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: NewGAN-Manager-Portable.exe
+
+      - name: Attest Build Provenance (Windows)
+        uses: actions/attest-build-provenance@v1
+        if: matrix.platform == 'windows-latest'
+        with:
+          subject-path: NewGAN-Manager-Portable.exe
 
       - name: Delete unwanted Windows assets
         if: matrix.platform == 'windows-latest'
