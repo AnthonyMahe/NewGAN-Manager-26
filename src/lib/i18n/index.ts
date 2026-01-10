@@ -8,9 +8,14 @@ import ko from './ko.json';
 import zh from './zh.json';
 import uk from './uk.json';
 import pt from './pt.json';
+import da from './da.json';
+import el from './el.json';
+import nl from './nl.json';
+import pl from './pl.json';
+import sv from './sv.json';
 
 const translations: Record<string, Record<string, any>> = {
-    en, fr, de, es, it, ko, zh, uk, pt
+    en, fr, de, es, it, ko, zh, uk, pt, da, el, nl, pl, sv
 };
 
 function getBrowserLocale(): string {

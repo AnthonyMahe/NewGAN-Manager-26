@@ -1,3 +1,30 @@
+<p align="center">
+  <img src="src-tauri/icons/icon.png" alt="NewGAN Manager 26" width="128">
+</p>
+
+<h1 align="center">NewGAN Manager 26</h1>
+
+<h4 align="center">📖 Read in your language</h4>
+
+<p align="center">
+  <a href="README.cn.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="32" alt="简体中文"></a>&nbsp;
+  <a href="README.kr.md"><img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="32" alt="한국어"></a>&nbsp;
+  <a href="README.da.md"><img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="32" alt="Dansk"></a>&nbsp;
+  <a href="README.de.md"><img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="32" alt="Deutsch"></a>&nbsp;
+  <a href="README.el.md"><img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="32" alt="Ελληνικά"></a>&nbsp;
+  <a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="32" alt="English"></a>&nbsp;
+  <a href="README.es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32" alt="Español"></a>&nbsp;
+  <a href="README.fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="32" alt="Français"></a>&nbsp;
+  <a href="README.it.md"><img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="32" alt="Italiano"></a>&nbsp;
+  <a href="README.nl.md"><img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="32" alt="Nederlands"></a>&nbsp;
+  <a href="README.pl.md"><img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="32" alt="Polski"></a>&nbsp;
+  <a href="README.pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="32" alt="Português"></a>&nbsp;
+  <a href="README.sv.md"><img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="32" alt="Svenska"></a>&nbsp;
+  <a href="README.ua.md"><img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="32" alt="Українська"></a>
+</p>
+
+---
+
 # NewGAN Manager - FM26 Edition (Fork)
 
 > ⚠️ **CURRENT STATUS: ON HOLD / WAITING FOR GAME UPDATE** ⚠️
@@ -7,56 +34,15 @@
 > **Français :** Actuellement, cet outil n'est **PAS fonctionnel sur Football Manager 26**. Le passage au moteur Unity a supprimé la fonctionnalité d'export de données (Ctrl+P), indispensable pour récupérer les IDs des joueurs.
 
 ---
-
-## 🚧 The Issue (Unity Engine & Data Export)
-
-For NewGAN to work, we need to export the list of players (UIDs, Names, Ethnicities) from the game to a text/XML file. In previous versions, this was done via a Custom View and Ctrl+P.
-
-**In FM26 (Unity), this export feature is currently missing.**
-Without this data, the tool cannot map faces to newgens.
-
-### 📢 Official Word from Sports Interactive
-
-On the official SI Forums, the development team has acknowledged the issue regarding the missing data export. 
-**Remy Boicherot (SI Staff)** stated:
-
-> *"Trust me, we do care, and log relevant requests [...] from the volume of requests for this specific feature, it's not that "niche", so we're taking your comments and upvotes into account."*
-
-## 📅 Roadmap / Next Steps
-
-1.  **Wait for an FM26 Update:** We are monitoring patch notes. As soon as SI restores the ability to export view data (CSV/XML/HTML), I will update the parser.
-2.  **Alternative Methods:** Unless a safe API is discovered, we will not use memory injection (like FMRTE) to keep this tool safe and open-source.
-
----
-
-<p align="center">
-  <img src="src-tauri/icons/icon.png" alt="NewGAN Manager 26" width="128">
-</p>
-
-<h1 align="center">NewGAN Manager 26</h1>
-
-<h4 align="center">📖 Leer en tu idioma</h4>
-
-<p align="center">
-  <a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="32" alt="English"></a>&nbsp;
-  <a href="README.fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="32" alt="Français"></a>&nbsp;
-  <a href="README.es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="32" alt="Español"></a>&nbsp;
-  <a href="README.de.md"><img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="32" alt="Deutsch"></a>&nbsp;
-  <a href="README.it.md"><img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="32" alt="Italiano"></a>&nbsp;
-  <a href="README.pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="32" alt="Português"></a>&nbsp;
-  <a href="README.ua.md"><img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="32" alt="Українська"></a>&nbsp;
-  <a href="README.kr.md"><img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="32" alt="한국어"></a>&nbsp;
-  <a href="README.cn.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="32" alt="中文"></a>
-</p>
-
----
-
-#
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
+![SHA256](https://img.shields.io/badge/SHA256-Verified-green?style=flat-square&logo=checkmarx)
+![SLSA](https://img.shields.io/badge/SLSA-Attested-blue?style=flat-square&logo=github)
+![GitHub Attestations](https://img.shields.io/badge/Attestations-Signed-purple?style=flat-square&logo=sigstore)
+
 
 **Un generador de caras moderno para los newgens de Football Manager 26.**
 
@@ -157,4 +143,13 @@ Si encuentras problemas, por favor [abre un issue](https://github.com/AnthonyMah
   </a>
 </p>
 
+
+
+## 🔒 Security Verification
+All releases are cryptographically signed and verified:
+- **SHA256 Checksums**: Compare with checksums_windows.txt / checksums_linux.txt
+- **GitHub Attestations**: Verify build provenance with:
+`ash
+gh attestation verify <downloaded-file> --owner AnthonyMahe
+`
 

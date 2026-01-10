@@ -1,0 +1,41 @@
+{
+    "app": {
+        "title": "NewGAN-Manager26",
+        "loading": "Loading...",
+        "footer": "Fork of"
+    },
+    "ui": {
+        "select_rtf": "SELECT FILE",
+        "select_img": "SELECT DIRECTORY",
+        "select_file": "Select File",
+        "select_folder": "Select Folder",
+        "rtf_file": "RTF File",
+        "image_folder": "Image Folder",
+        "mode": "Mode",
+        "generate_btn": "GENERATE FACES",
+        "processing": "PROCESSING...",
+        "error_rtf": "Please select an RTF file first.",
+        "error_img": "Please select an image directory first.",
+        "error_both": "Please select both an RTF file and an image directory.",
+        "error_not_rtf": "The selected file must be an RTF file (.rtf extension).",
+        "close": "Close"
+    },
+    "help": {
+        "rtf_title": "RTF File",
+        "rtf_text": "This is the RTF file exported from Football Manager containing the list of players (newgens). To export it: In FM, go to a player list view, select all players, right-click and choose 'Export to Web Page'.",
+        "img_title": "Image Directory",
+        "img_text": "This is the folder containing the face images sorted by ethnicity. Each subfolder should be named after an ethnicity (e.g., African, Asian, Caucasian) and contain PNG face images."
+    },
+    "mode": {
+        "generate": "GENERATE",
+        "preserve": "PRESERVE",
+        "overwrite": "OVERWRITE",
+        "generate_desc": "Generate new face mappings for all players without existing faces.",
+        "preserve_desc": "Keep existing face mappings and only assign faces to new players.",
+        "overwrite_desc": "Replace ALL existing face mappings with new ones."
+    },
+    "logs": {
+        "ready": "System ready. Waiting for input...",
+        "mapped": "Mapped"
+    }
+}
