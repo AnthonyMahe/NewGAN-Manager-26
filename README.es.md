@@ -117,3 +117,10 @@ Si encuentras problemas, por favor [abre un issue](https://github.com/AnthonyMah
 - Tu sistema operativo
 - Pasos para reproducir el problema
 - Cualquier mensaje de error o captura de pantalla
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>

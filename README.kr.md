@@ -115,3 +115,10 @@ GNU General Public License v3.0에 따라 배포됩니다. 자세한 내용은 `
 - 운영 체제
 - 재현 단계
 - 오류 메시지 또는 스크린샷
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>

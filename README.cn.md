@@ -115,3 +115,10 @@
 - 您的操作系统
 - 重现步骤
 - 任何错误消息或截图
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>

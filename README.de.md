@@ -117,3 +117,10 @@ Bei Problemen öffnen Sie bitte ein [Issue](https://github.com/AnthonyMahe/NewGA
 - Ihrem Betriebssystem
 - Schritten zur Reproduktion
 - Fehlermeldungen oder Screenshots
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>

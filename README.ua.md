@@ -115,3 +115,10 @@ Rozpovsюджується за ліцензією GNU General Public License v3.
 - Вашою операційною системою
 - Кроками для відтворення
 - Будь-якими повідомленнями про помилки або скріншотами
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>

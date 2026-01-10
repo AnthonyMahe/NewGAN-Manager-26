@@ -115,3 +115,10 @@ If you encounter issues, please [open an issue](https://github.com/AnthonyMahe/N
 - Your operating system
 - Steps to reproduce
 - Any error messages or screenshots
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>

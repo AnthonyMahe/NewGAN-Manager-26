@@ -115,3 +115,10 @@ Si vous rencontrez des problèmes, merci d'[ouvrir une issue](https://github.com
 - Votre système d'exploitation
 - Les étapes pour reproduire le problème
 - Tout message d'erreur ou capture d'écran
+
+---
+
+<p align="center">
+  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
+  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+</p>
