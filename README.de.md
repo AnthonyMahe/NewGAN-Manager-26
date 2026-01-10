@@ -1,3 +1,34 @@
+# NewGAN Manager - FM26 Edition (Fork)
+
+> ⚠️ **CURRENT STATUS: ON HOLD / WAITING FOR GAME UPDATE** ⚠️
+>
+> **English:** Currently, this tool is **NOT functional with Football Manager 26**. The transition to the Unity Engine removed the "Print Screen" (Ctrl+P) data export feature, which is required to extract Player IDs.
+>
+> **Français :** Actuellement, cet outil n'est **PAS fonctionnel sur Football Manager 26**. Le passage au moteur Unity a supprimé la fonctionnalité d'export de données (Ctrl+P), indispensable pour récupérer les IDs des joueurs.
+
+---
+
+## 🚧 The Issue (Unity Engine & Data Export)
+
+For NewGAN to work, we need to export the list of players (UIDs, Names, Ethnicities) from the game to a text/XML file. In previous versions, this was done via a Custom View and Ctrl+P.
+
+**In FM26 (Unity), this export feature is currently missing.**
+Without this data, the tool cannot map faces to newgens.
+
+### 📢 Official Word from Sports Interactive
+
+On the official SI Forums, the development team has acknowledged the issue regarding the missing data export. 
+**Remy Boicherot (SI Staff)** stated:
+
+> *"Trust me, we do care, and log relevant requests [...] from the volume of requests for this specific feature, it's not that "niche", so we're taking your comments and upvotes into account."*
+
+## 📅 Roadmap / Next Steps
+
+1.  **Wait for an FM26 Update:** We are monitoring patch notes. As soon as SI restores the ability to export view data (CSV/XML/HTML), I will update the parser.
+2.  **Alternative Methods:** Unless a safe API is discovered, we will not use memory injection (like FMRTE) to keep this tool safe and open-source.
+
+---
+
 <p align="center">
   <img src="src-tauri/icons/icon.png" alt="NewGAN Manager 26" width="128">
 </p>
@@ -121,6 +152,9 @@ Bei Problemen öffnen Sie bitte ein [Issue](https://github.com/AnthonyMahe/NewGA
 ---
 
 <p align="center">
-  <script src="https://liberapay.com/TonyBoySUPER/widgets/button.js"></script>
-  <noscript><a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+  <a href="https://liberapay.com/TonyBoySUPER/donate">
+    <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+  </a>
 </p>
+
+
