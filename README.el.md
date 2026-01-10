@@ -67,23 +67,22 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
 ## 📥 Installation
 
 ### Windows
-1. Download the latest `.exe` (portable) or `.msi` installer from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+1. Download the latest `.exe` (portable) from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 2. Run the application
 3. Move the `views/` and `filters/` folders to your Football Manager user folder:
    ```
    Documents\Sports Interactive\Football Manager 2026\
    ```
-4. Run NewGAN Manager 26
+3. Run NewGAN Manager 26
 
 ### Linux
-1. Download the `.AppImage` or `.deb` from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+1. Download the `.AppImage` from [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 2. For AppImage: `chmod +x *.AppImage` then run it
-3. For .deb: `sudo dpkg -i *.deb`
-4. Move the `views/` and `filters/` folders to your Football Manager user folder:
+3. Move the `views/` and `filters/` folders to your Football Manager user folder:
    ```
    ~/.local/share/Sports Interactive/Football Manager 2026/
    ```
-5. Run NewGAN Manager 26
+4. Run NewGAN Manager 26
 
 ---
 
@@ -97,8 +96,8 @@ This is a complete rewrite of the original [NewGAN-Manager](https://github.com/M
 1. In Football Manager, go to a player search/squad view
 2. Select all players (Ctrl+A)
 3. Right-click → **Export to Web Page** → Save as `.rtf`
-4. Open NewGAN Manager 26
-5. Select the exported `.rtf` file
+3. Open NewGAN Manager 26
+4. Select the exported `.rtf` file
 6. Select your faces directory (organized by ethnicity folders)
 7. Choose a mode:
    - **Generate**: Assign faces to players without existing faces
@@ -150,6 +149,7 @@ If you encounter issues, please [open an issue](https://github.com/AnthonyMahe/N
 <p align="center">
   <a href="https://liberapay.com/TonyBoySUPER/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
+
 
 
 

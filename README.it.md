@@ -67,23 +67,22 @@ Questa è una riscrittura completa del [NewGAN-Manager](https://github.com/Marad
 ## 📥 Installazione
 
 ### Windows
-1. Scarica l'ultimo `.exe` (portable) o l'installer `.msi` dalle [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+1. Scarica l'ultimo `.exe` (portable) dalle [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 2. Esegui l'applicazione
 3. Sposta le cartelle `views/` e `filters/` nella tua cartella utente di Football Manager:
    ```
    Documents\Sports Interactive\Football Manager 2026\
    ```
-4. Avvia NewGAN Manager 26
+3. Avvia NewGAN Manager 26
 
 ### Linux
-1. Scarica l'`.AppImage` o `.deb` dalle [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+1. Scarica l'`.AppImage` dalle [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 2. Per AppImage: `chmod +x *.AppImage` poi eseguilo
-3. Per .deb: `sudo dpkg -i *.deb`
-4. Sposta le cartelle `views/` e `filters/` nella tua cartella utente di Football Manager:
+3. Sposta le cartelle `views/` e `filters/` nella tua cartella utente di Football Manager:
    ```
    ~/.local/share/Sports Interactive/Football Manager 2026/
    ```
-5. Avvia NewGAN Manager 26
+4. Avvia NewGAN Manager 26
 
 ---
 
@@ -97,8 +96,8 @@ Questa è una riscrittura completa del [NewGAN-Manager](https://github.com/Marad
 1. In Football Manager, vai alla ricerca giocatori/vista rosa
 2. Seleziona tutti i giocatori (Ctrl+A)
 3. Clic destro → **Esporta come pagina web** → Salva come `.rtf`
-4. Apri NewGAN Manager 26
-5. Seleziona il file `.rtf` esportato
+3. Apri NewGAN Manager 26
+4. Seleziona il file `.rtf` esportato
 6. Seleziona la tua cartella dei volti (organizzata per cartelle etnie)
 7. Scegli una modalità:
    - **Generate**: Assegna volti ai giocatori senza volti esistenti
@@ -152,4 +151,5 @@ All releases are cryptographically signed and verified:
 `ash
 gh attestation verify <downloaded-file> --owner AnthonyMahe
 `
+
 

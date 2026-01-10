@@ -73,17 +73,16 @@
    ```
    Documents\Sports Interactive\Football Manager 2026\
    ```
-4. 运行 NewGAN Manager 26
+3. 运行 NewGAN Manager 26
 
 ### Linux
 1. 从 [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases) 下载 `.AppImage` 或 `.deb`
 2. AppImage：`chmod +x *.AppImage` 然后运行
-3. .deb：`sudo dpkg -i *.deb`
-4. 将 `views/` 和 `filters/` 文件夹移动到您的 Football Manager 用户文件夹：
+3. 将 `views/` 和 `filters/` 文件夹移动到您的 Football Manager 用户文件夹：
    ```
    ~/.local/share/Sports Interactive/Football Manager 2026/
    ```
-5. 运行 NewGAN Manager 26
+4. 运行 NewGAN Manager 26
 
 ---
 
@@ -97,8 +96,8 @@
 1. 在 Football Manager 中，进入球员搜索/球队视图
 2. 选择所有球员 (Ctrl+A)
 3. 右键点击 → **导出为网页** → 保存为 `.rtf`
-4. 打开 NewGAN Manager 26
-5. 选择导出的 `.rtf` 文件
+3. 打开 NewGAN Manager 26
+4. 选择导出的 `.rtf` 文件
 6. 选择您的面孔目录（按种族文件夹组织）
 7. 选择一个模式：
    - **Generate**：为没有现有面孔的球员分配面孔
@@ -152,4 +151,5 @@ All releases are cryptographically signed and verified:
 `ash
 gh attestation verify <downloaded-file> --owner AnthonyMahe
 `
+
 

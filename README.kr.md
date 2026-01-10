@@ -73,17 +73,16 @@
    ```
    Documents\Sports Interactive\Football Manager 2026\
    ```
-4. NewGAN Manager 26 실행
+3. NewGAN Manager 26 실행
 
 ### Linux
 1. [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)에서 `.AppImage` 또는 `.deb` 다운로드
 2. AppImage의 경우: `chmod +x *.AppImage` 후 실행
-3. .deb의 경우: `sudo dpkg -i *.deb`
-4. `views/` 및 `filters/` 폴더를 Football Manager 사용자 폴더로 이동:
+3. `views/` 및 `filters/` 폴더를 Football Manager 사용자 폴더로 이동:
    ```
    ~/.local/share/Sports Interactive/Football Manager 2026/
    ```
-5. NewGAN Manager 26 실행
+4. NewGAN Manager 26 실행
 
 ---
 
@@ -97,8 +96,8 @@
 1. Football Manager에서 선수 검색/스쿼드 보기로 이동
 2. 모든 선수 선택 (Ctrl+A)
 3. 우클릭 → **웹 페이지로 내보내기** → `.rtf`로 저장
-4. NewGAN Manager 26 열기
-5. 내보낸 `.rtf` 파일 선택
+3. NewGAN Manager 26 열기
+4. 내보낸 `.rtf` 파일 선택
 6. 얼굴 디렉토리 선택 (민족별 폴더로 구성됨)
 7. 모드 선택:
    - **Generate**: 기존 얼굴이 없는 선수에게 얼굴 할당
@@ -152,4 +151,5 @@ All releases are cryptographically signed and verified:
 `ash
 gh attestation verify <downloaded-file> --owner AnthonyMahe
 `
+
 

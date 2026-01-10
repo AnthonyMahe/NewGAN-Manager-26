@@ -67,23 +67,22 @@ Dies ist eine komplette Neuentwicklung des ursprünglichen [NewGAN-Manager](http
 ## 📥 Installation
 
 ### Windows
-1. Laden Sie die neueste `.exe` (portable) oder den `.msi` Installer von [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases) herunter
+1. Laden Sie die neueste `.exe` (portable) von [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases) herunter
 2. Führen Sie die Anwendung aus
 3. Verschieben Sie die Ordner `views/` und `filters/` in Ihren Football Manager Benutzerordner:
    ```
    Documents\Sports Interactive\Football Manager 2026\
    ```
-4. Starten Sie NewGAN Manager 26
+3. Starten Sie NewGAN Manager 26
 
 ### Linux
-1. Laden Sie das `.AppImage` oder `.deb` von [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases) herunter
+1. Laden Sie das `.AppImage` von [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases) herunter
 2. Für AppImage: `chmod +x *.AppImage` und dann ausführen
-3. Für .deb: `sudo dpkg -i *.deb`
-4. Verschieben Sie die Ordner `views/` und `filters/` in Ihren Football Manager Benutzerordner:
+3. Verschieben Sie die Ordner `views/` und `filters/` in Ihren Football Manager Benutzerordner:
    ```
    ~/.local/share/Sports Interactive/Football Manager 2026/
    ```
-5. Starten Sie NewGAN Manager 26
+4. Starten Sie NewGAN Manager 26
 
 ---
 
@@ -97,8 +96,8 @@ Dies ist eine komplette Neuentwicklung des ursprünglichen [NewGAN-Manager](http
 1. Gehen Sie in Football Manager zu einer Spielersuche/Kaderansicht
 2. Wählen Sie alle Spieler aus (Strg+A)
 3. Rechtsklick → **Als Webseite exportieren** → Als `.rtf` speichern
-4. Öffnen Sie NewGAN Manager 26
-5. Wählen Sie die exportierte `.rtf` Datei
+3. Öffnen Sie NewGAN Manager 26
+4. Wählen Sie die exportierte `.rtf` Datei
 6. Wählen Sie Ihr Gesichter-Verzeichnis (nach Ethnien-Ordnern organisiert)
 7. Wählen Sie einen Modus:
    - **Generate**: Weist Spielern ohne vorhandene Gesichter Gesichter zu
@@ -152,4 +151,5 @@ All releases are cryptographically signed and verified:
 `ash
 gh attestation verify <downloaded-file> --owner AnthonyMahe
 `
+
 

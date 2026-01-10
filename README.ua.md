@@ -67,23 +67,22 @@
 ## 📥 Встановлення
 
 ### Windows
-1. Завантажте останній `.exe` (портативний) або інсталятор `.msi` з [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+1. Завантажте останній `.exe` (портативний) або інсталятор ` [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 2. Запустіть програму
 3. Перемістіть папки `views/` та `filters/` до вашої папки користувача Football Manager:
    ```
    Documents\Sports Interactive\Football Manager 2026\
    ```
-4. Запустіть NewGAN Manager 26
+3. Запустіть NewGAN Manager 26
 
 ### Linux
-1. Завантажте `.AppImage` або `.deb` з [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
+1. Завантажте `.AppImage` або ` [Releases](https://github.com/AnthonyMahe/NewGAN-Manager-26/releases)
 2. Для AppImage: `chmod +x *.AppImage` потім запустіть
-3. Для .deb: `sudo dpkg -i *.deb`
-4. Перемістіть папки `views/` та `filters/` до вашої папки користувача Football Manager:
+3. Перемістіть папки `views/` та `filters/` до вашої папки користувача Football Manager:
    ```
    ~/.local/share/Sports Interactive/Football Manager 2026/
    ```
-5. Запустіть NewGAN Manager 26
+4. Запустіть NewGAN Manager 26
 
 ---
 
@@ -97,8 +96,8 @@
 1. У Football Manager перейдіть до пошуку гравців/перегляду складу
 2. Виберіть усіх гравців (Ctrl+A)
 3. Клацніть правою кнопкою → **Експортувати як веб-сторінку** → Зберегти як `.rtf`
-4. Відкрийте NewGAN Manager 26
-5. Виберіть експортований файл `.rtf`
+3. Відкрийте NewGAN Manager 26
+4. Виберіть експортований файл `.rtf`
 6. Виберіть вашу папку з обличчями (організовану за папками етнічності)
 7. Виберіть режим:
    - **Generate**: Призначає обличчя гравцям без існуючих облич
@@ -152,4 +151,5 @@ All releases are cryptographically signed and verified:
 `ash
 gh attestation verify <downloaded-file> --owner AnthonyMahe
 `
+
 
